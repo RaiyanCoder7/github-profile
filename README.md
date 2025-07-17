@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A smart shopping assistant web app called WallyCart<br>🤝 I’m looking for help with Contributing effectively to open source<br>🌱 I’m currently learning Data Structure & Algorithms<br>💬 Ask me about Full stack development or AI use cases<br>⚡ Fun fact - I love turning innovative ideas into functional prototypes — from athlete tracking to smart shopping!
+Hi, I'm MD RAIYAN RAZA KHAN - a passionate and curious software developer currently in my pre-final year of engineering. I thrive at the intersection of problem-solving, web development, and emerging technologies like Generative AI.
 
 
 ## 🌐 Socials:
